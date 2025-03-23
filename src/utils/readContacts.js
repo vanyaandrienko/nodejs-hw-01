@@ -1,5 +1,5 @@
 import fs from "node:fs/promises";
-console.log(fs);
+
 import {PATH_DB } from '../constants/contacts.js';
 
 
